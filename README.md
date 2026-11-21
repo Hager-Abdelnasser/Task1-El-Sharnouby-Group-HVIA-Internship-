@@ -1,6 +1,6 @@
 # El-Sharnouby Group · Intelligence Hub
 
-Streamlit dashboard for the HVIA Task 02 case (El-Sharnouby Group / Leo Moda).
+Streamlit dashboard for the HVIA Task 01 case (El-Sharnouby Group / Leo Moda).
 Eleven tabs: Executive, Sales & Profit, Customers, Channels & Regions, Inventory & Demand, Marketing & Web,
 Factory & Print, Quality & Returns, Supply Chain, AI Lab, Action Plan.
 
